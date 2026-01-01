@@ -1,0 +1,95 @@
+# Strings
+# =======================================================================================
+# This file contains all soft-coded strings of the theme.
+# You can edit them here if you want to change the wording of certain phrases,
+# e.g. maybe you prefer "Fetching…" to "Loading…", etc.
+#
+# You can also use this to "translate" the theme into different langauges,
+# but note that this may not work in all situations,
+# especially for languages that differ significantly from English.
+
+# Free version
+# ---------------------------------------------------------------------------------------
+home:                  Strona Główna
+pages:                 Strony
+posts:                 Posty
+about:                 Kontakt
+related_posts:         Podobne Posty
+other_projects:        Inne Projekty
+comments:              Komentarze
+jump_to:               Idź do
+navigation:            Nawigacja
+social:                Media społecznościowe
+links:                 Linki
+links_icon:            'icon-link'
+pagination:            Pagination
+newer:                 Nowsze
+older:                 Starsze
+forward:               Do przodu
+back:                  Do tyłu
+permalink:             Permanentny link
+permalink_icon:        'content-hash'
+templates:             Szablony (for web app)
+present:               present
+toc:                   Table of Contents
+note:                  Notatka
+description:           Opis
+search:                Wyszukaj
+search_placeholder:    Wpisz tutaj..
+
+loading:               Ładowanie..
+redirecting:           Przekierowywanie..
+
+continue_reading:      >
+  Kontynuuj czytanie: <!--post_title-->
+
+cookies_banner:
+  text:                >
+    Ta strona używa plików Cookies. [Cookies Policy](/cookies-policy/).
+  okay:                Okej
+
+not_found:
+  title:               'Błąd 404: Strona nie znaleziona.'
+  message:             |
+    <!--home_link--> aby spróbować ponownie.
+  home_link:           Wróć do Strony Głównej
+
+offline:
+  title:               'Jesteś Offline'
+  message:             |
+    Sorry, but you appear to be offline and this page has not been prepared for offline viewing.
+    Przepraszamy, wygląda na to, że jesteś offline a ta strona nie jest przystosowana do oglądania w tym trybie.
+    <!--home_link--> aby spróbować jeszcze raz.
+  home_link:           Wróć do Strony Głównej
+
+error:
+  title:               Error
+  message:             |
+    Przepraszamy, napotkaliśmy błąd ładując link: <!--link-->.
+
+# Separators
+# ---------------------------------------------------------------------------------------
+posted:                'Odpublikowany: '
+last_modified_at:      'Ostatnio edytowany'
+last_modified_at_icon: 'icon-history'
+colon:                 ':'
+separator:             '|'
+category_start:        'w '
+category_spearator:    ' / '
+tag_start:             'na '
+tag_separator:         ', '
+from_to_separator:     '–'
+breadcrumbs_home:      'Strona Główna'
+breadcrumbs_separator: '/'
+
+# Date formats
+# ---------------------------------------------------------------------------------------
+date_formats:
+  post:                '%d %b %Y'
+  last_modified_at:    '%Y-%m-%d'
+  related_post:        '%d %b %Y'
+  list_group_by:       '%Y'
+  list_entry:          '%d %b'
+  project:             '%Y'
+  projects_group_by:   '%Y'
+  resume:              '%b %Y'

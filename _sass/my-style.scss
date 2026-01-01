@@ -1,0 +1,54 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+
+h2 {
+  font-size: 30px;
+}
+
+body {
+  font-size: 23px;
+}
+
+.contact-img {
+  width: 700px;
+}
+
+.contact-info {
+  font-size: 32px;
+  // display: flex;
+  align-items: center;
+  gap: 30px
+}
+
+.author-name {
+  font-size: 40px;
+  color: rgb(91, 145, 13);
+}
+
+@media screen and (min-width: 104rem) {
+  .content{
+    margin-left: 500px;
+    max-width: 70%;
+  }
+}
+
+@media screen and (min-width: 110rem) {
+  .contact-info {
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    gap: 30px
+  }
+}

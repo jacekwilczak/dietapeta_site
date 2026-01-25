@@ -42,6 +42,28 @@ Stworzyłem także składy produktów **wspierające zdrowie** i **pomocne w die
   - **Konsultacje** merytoryczne związane z **żywieniem i dietetyką** psów i kotów
   - Prowadzenie **szkoleń**, wygłaszanie wykładów, autorstwo i redakcja tekstów do **prasy branżowej** 
 
+## Jak wygląda konsultacja?
+
+<div class="image-container">
+    <div class="image-item">
+        <img src="{{ "/assets/img/step1.png" | absolute_url }}" alt="Description 1">
+        <p>1. Wypełnij ankietę, dołącz wyniki badań oraz zdjęcia psa lub kota</p>
+    </div>
+    <div class="image-item">
+        <img src="{{ "/assets/img/step2.png" | absolute_url }}" alt="Description 2">
+        <p>2. Skontaktuję się z Tobą i w czasie rozmowy telefonicznej bądź videoczatu szczegółowo omówimy dany przypadek</p>
+    </div>
+    <div class="image-item">
+        <img src="{{ "/assets/img/step3.png" | absolute_url }}" alt="Description 3">
+        <p>3. W ciągu 24 godzin otrzymasz plan żywieniowy/dietetyczny</p>
+    </div>
+    <div class="image-item">
+        <img src="{{ "/assets/img/step4.png" | absolute_url }}" alt="Description 4">
+        <p>4. Przez cały miesiąc jestem do Twojej dyzpozycji w celu wprowadzania modyfikacji diety i odpowiedzi na Twoja pytania</p>
+    </div>
+</div>
+
+
 
 ### Specjalizuję się w:
   - **chorobach metabolicznych** psów i kotów (nadwaga, otyłość, cukrzyca)

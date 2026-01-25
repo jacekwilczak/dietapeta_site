@@ -57,3 +57,25 @@ h2 {
     gap: 30px
   }
 }
+
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    // padding: 20px;
+}
+
+.image-item {
+    text-align: center;
+    width: 25%; /* Adjust width as needed */
+}
+
+.image-item img {
+    // max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.image-item p {
+    margin-top: 10px;
+    // color: #555;
+}

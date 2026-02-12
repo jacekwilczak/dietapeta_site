@@ -1,7 +1,7 @@
 ---
 layout: plain
 
-title: Witaj!
+title: O mnie
 
 hide_description: true
 # (Optional) You can disable grouping posts by date.
@@ -46,7 +46,7 @@ Stworzyłem także składy produktów **wspierające zdrowie** i **pomocne w die
 
 <div class="image-container">
     <div class="image-item">
-        <img src="{{ "/assets/img/step1.png" | absolute_url }}" alt="Description 1">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSez2FR6aLaCL0q0VAzEGsXesnDi2-feyVaY55RYE7xZC2L2MA/viewform?usp=header" id="emailLink" rel="noopener noreferrer"><img src="{{ "/assets/img/step1.png" | absolute_url }}" alt="Description 1"></a>
         <p>1. Wypełnij ankietę, dołącz wyniki badań oraz zdjęcia psa lub kota</p>
     </div>
     <div class="image-item">

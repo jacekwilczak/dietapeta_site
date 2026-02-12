@@ -13,7 +13,7 @@
 home:                  Strona Główna
 pages:                 Strony
 posts:                 Posty
-about:                 Kontakt
+about:                 O Autorze
 related_posts:         Podobne Posty
 other_projects:        Inne Projekty
 comments:              Komentarze
@@ -74,7 +74,7 @@ last_modified_at:      'Ostatnio edytowany'
 last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
-category_start:        'w '
+category_start:        'na '
 category_spearator:    ' / '
 tag_start:             'na '
 tag_separator:         ', '

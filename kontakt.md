@@ -4,6 +4,14 @@ title: Skontaktuj się!
 hide_description: true
 ---
 
+## Ankieta
+
+Najlepszym sposobem na rozpoczęcie współpracy ze mną jest wypełnienie ankiety.
+
+<center>
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSez2FR6aLaCL0q0VAzEGsXesnDi2-feyVaY55RYE7xZC2L2MA/viewform?usp=header)">Link do ankiety</a></h2>
+</center>
+
 ## Dane Kontaktowe
 
 Można się ze mną skontaktować poprzez poniższe metody:
